@@ -1,8 +1,0 @@
-{
-  "short_name": "기숙사 관리",
-  "name": "기숙사 관리 시스템",
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
-}
